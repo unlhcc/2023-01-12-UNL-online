@@ -163,8 +163,9 @@ This block displays the date and links to Google Calendar.
   <strong>When:</strong>
   {{page.humandate}}.
   {% include workshop_calendar.html %}
-</p>
+<a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=HCC+Python+Software+Carpentry+Workshop&iso=20230112T0830&p1=132"> TimeAndDate Link</a></p>
 {% endif %}
+
 
 <p id="cost">
   <strong>Cost:</strong>
